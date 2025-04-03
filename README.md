@@ -24,7 +24,7 @@ This repository focuses on detecting audio deepfakes using raw waveform data, le
 ---
 ### Dataset Used in this model traning
  -**FoR dataset year 2019  and attack type TTS**
-      https://bil.eecs.yorku.ca/datasets/
+     [ https://bil.eecs.yorku.ca/datasets/](https://www.eecs.yorku.ca/~bil/Datasets/for-2sec.tar.gz)
 ---
 
 ### Why LCNN?
