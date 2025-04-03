@@ -273,9 +273,4 @@ data/
     ├── fake/
 ```
 
-Run the training script:
-```bash
-python train.py --data_path data --epochs 15 --batch_size 64
-```
-
 
