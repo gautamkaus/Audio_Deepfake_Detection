@@ -275,12 +275,3 @@ python train.py --data_path data --epochs 15 --batch_size 64
 ```
 
 
-
----
-
-
-
-
-
----
-Answer from Perplexity: pplx.ai/share
